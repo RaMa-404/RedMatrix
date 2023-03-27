@@ -1,6 +1,7 @@
 # RedMatrix
 
-```You Can See Here 
+```bash
+You Can See Here 
 ```
 - [localhost](https://rama-404.github.io/RedMatrix/)
 
